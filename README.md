@@ -163,6 +163,7 @@ sudo nano /etc/systemd/system/meshcentral.service
 ```
 
 2. Paste (replace `/home/yourusername/meshcentral` and `yourusername`):
+Example: ram@computername:~/meshcentral -> ram is the username and other one is computername
 
 ```ini
 [Unit]
